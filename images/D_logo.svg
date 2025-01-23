@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="NexT" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: FZCYSJW--GB1-0, FZYaSongS-B-GB;
+        font-size: 250px;
+      }
+    </style>
+  </defs>
+  <path id="path3384" class="cls-1" d="M256.4,25.8L56.4,141.3l-.4,230.2,199.6,114.7,200-115.5.4-230.2L256.4,25.8ZM349,354.6l-18.4,10.7-18.6-11h0l-112-142.3v142.6l-18.4,10.7-18.6-11v-197l18.5-10.6,18.5,10.8h0l112,144.5v-144.6l18.5-10.6,18.5,10.8v197Z"/>
+  <rect class="cls-1" x="117.8" y="128.3" width="249.9" height="255.4"/>
+  <text class="cls-2" transform="translate(163 349.1)"><tspan x="0" y="0">D</tspan></text>
+</svg>
