@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c8ffe5;
+  background: #3030c8;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1412,7 +1412,7 @@ pre .javascript .function {
   width: 100%;
 }
 .with-love {
-  color: #ff0000;
+  color: #BEBEBE;
   display: inline-block;
   margin: 0 5px;
 }
@@ -2152,6 +2152,13 @@ ul.breadcrumb li + li:last-child {
 .tag-cloud a:hover {
   color: var(--link-hover-color) !important;
 }
+mjx-container[jax="CHTML"][display="true"],
+.has-jax {
+  overflow: auto hidden;
+}
+mjx-container + br {
+  display: none;
+}
 .header {
   margin: 0 auto;
   position: relative;
@@ -2240,7 +2247,10 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .site-brand-container {
-  background: #222;
+  background: url("/images/meteor.gif");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 @media (max-width: 991px) {
   .site-brand-container {
@@ -2449,4 +2459,19 @@ ul.breadcrumb li + li:last-child {
 }
 .links-of-blogroll-item {
   padding: 0;
+}
+.headband {
+  display: none;
+}
+::selection {
+  background: #4d71bf;
+  color: #fff;
+  font-weight: 900;
+  font-size: 32px;
+}
+.header {
+  background-image: url("D:/hyDSirius_Github/themes/next/source/images/Sirius_profile.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
