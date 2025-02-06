@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #3030c8;
+  background: #ff4bee;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2247,7 +2247,7 @@ mjx-container + br {
   }
 }
 .site-brand-container {
-  background: url("/images/meteor.gif");
+  background: url("/images/M42.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -2468,10 +2468,4 @@ mjx-container + br {
   color: #fff;
   font-weight: 900;
   font-size: 32px;
-}
-.header {
-  background-image: url("D:/hyDSirius_Github/themes/next/source/images/Sirius_profile.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 }
